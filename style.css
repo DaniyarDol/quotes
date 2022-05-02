@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Montserrat&display=swap');
+body{
+    background-color: lightyellow;
+}
+#Head{
+    font-family: 'Lobster', cursive;
+    color: maroon;
+    text-align: center;
+    font-size: 3rem;
+}
+#q1{
+    font-family: 'Montserrat', sans-serif;
+    color: midnightblue;
+    text-align: left;
+}
+#p1{
+    font-family: 'Montserrat', sans-serif;
+    color: midnightblue;
+    text-align: right;
+}
+#q2{
+    font-family: 'Montserrat', sans-serif;
+    color: midnightblue;
+    text-align: left;
+}
+#p2{
+    font-family: 'Montserrat', sans-serif;
+    color: midnightblue;
+    text-align: right;
+}
+#q3{
+    font-family: 'Montserrat', sans-serif;
+    color: midnightblue;
+    text-align: left;
+}
+#p3{
+    font-family: 'Montserrat', sans-serif;
+    color: midnightblue;
+    text-align: right;
+}
+#d2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#d1, #d2, #d3{
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 3px;
+    border-color: rgb(164, 145, 95);
+    padding: 10px;
+}
